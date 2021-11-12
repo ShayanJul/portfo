@@ -1,0 +1,5 @@
+email, subject, massage
+
+ s@outlook.com, job offer, Hi Please contact me of you are intrested
+ shayan.zoodroom@gmail.com, job offer, Hi Please contact me if you are intrested
+ s@gmail.com, job opportunity, Hi there is an open position
